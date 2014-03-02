@@ -1,0 +1,23 @@
+.note {
+	height: 150px;
+	width: 150px;
+	margin: ;
+	background-color: rgb(59, 89, 152);
+	/*float: right;*/
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+	text-align: center;
+	/*padding-top: 35px;*/
+	color: white;
+	font-size: 18px;
+}
+
+/*#results {
+	border: 1px solid black;
+	h
+}*/
+
+#x {
+	clear: both;
+}
